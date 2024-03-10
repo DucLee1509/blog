@@ -23,7 +23,7 @@
 ![Gif 1](images/animal.gif)
 
 # Video
-![Video 1](videos/animal.mp4)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0GVExpdmoDs" frameborder="0" allowfullscreen></iframe>
 
 # Table
 | Column 1 | Column 2 |
