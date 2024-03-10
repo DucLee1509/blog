@@ -1,0 +1,41 @@
+# HEADER
+## Sub header
+### Micro sub header
+---
+# List
+* Parrent
+  * Child
+1. Parrent
+   1. Child
+---
+# Style
+*This is italic text*
+
+**This is bold text**
+
+# Link
+[Personal Github](https://github.com/DucLee1509)
+
+# Image
+![Image 1](images/image.jpg)
+
+# Gif
+![Gif 1](images/animal.gif)
+
+# Video
+![Video 1](videos/animal.mp4)
+
+# Table
+| Column 1 | Column 2 |
+|----------|----------|
+| value 1  | value 2  |
+
+# Code
+`printf("Hello")`
+```
+# Mã nhiều dòng
+print('Welcome to my blog')
+```
+# Note
+[Convert markdown to html](https://markdowntohtml.com/)
+
