@@ -23,7 +23,9 @@
 ![Gif 1](images/animal.gif)
 
 # Video
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0GVExpdmoDs" frameborder="0" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0GVExpdmoDs" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<video src="videos/animal.mp4" width="320" height="240" controls></video>
 
 # Table
 | Column 1 | Column 2 |
