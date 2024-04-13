@@ -41,3 +41,7 @@ print('Welcome to my blog')
 # Note
 [Convert markdown to html](https://markdowntohtml.com/)
 
+[Lỗi không gõ được tiếng việt khi trên Markdown khi cài Markdown All in One extension](https://github.com/tuyenvm/OpenKey/issues/152)
+
+
+
